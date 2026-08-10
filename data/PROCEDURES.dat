@@ -1,0 +1,15 @@
+99213     Office Visit - Established Patient - Level 3              Evaluation & Management       0015000
+99214     Office Visit - Established Patient - Level 4              Evaluation & Management       0020000
+99215     Office Visit - Established Patient - Level 5              Evaluation & Management       0025000
+99203     Office Visit - New Patient - Level 3                      Evaluation & Management       0018000
+99204     Office Visit - New Patient - Level 4                      Evaluation & Management       0024000
+80053     Comprehensive Metabolic Panel                              Laboratory                    0008500
+85025     Complete Blood Count with Differential                     Laboratory                    0004500
+93000     Electrocardiogram (ECG)                                    Diagnostic                    0012000
+71020     Chest X-Ray - 2 Views                                      Radiology                     0015000
+73610     Ankle X-Ray - Complete                                     Radiology                     0012500
+97110     Therapeutic Exercise                                       Physical Therapy              0009500
+90834     Psychotherapy - 45 Minutes                                 Mental Health                 0015000
+J0696     Injection - Ceftriaxone Sodium                             Medication                    0003500
+90471     Immunization Administration - First Vaccine                Preventive Care               0002500
+36415     Routine Venipuncture                                       Laboratory                    0001500
